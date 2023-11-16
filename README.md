@@ -18,3 +18,5 @@ Ovdje će biti upute vezane za objavu sadržaja repozitorija na webu.
 [Poveznica na test.md datoteku](test.md)
 
 Uživajte u stranici!!
+
+Novi commit za test.
